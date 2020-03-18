@@ -1,0 +1,89 @@
+/*
+h1{
+    font-size: ;
+    font-weight: ;
+    font-style: ;
+    font-stretch: ;
+    color: ;
+    text-transform: ;
+    text-indent: ;
+    text-decoration: ;
+    text-align: ;
+    text-overflow: ;
+    white-space: ;
+    letter-spacing: ;
+    word-spacing: ;
+    vertical-align: ;
+    cursor: ;
+
+}
+
+p{
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    color: blueviolet;
+    text-transform: capitalize;
+    text-indent: 50%;
+    text-align: center;
+    text-overflow: ;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+-----------------------*/
+
+/*----------------------
+div{
+    width: 300px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 3px solid red;
+    text-overflow: clip;
+    overflow-y: scroll;
+}
+ul{
+    border: 4px solid blue;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 320px;
+    background-color: aquamarine;
+    color: black;
+}
+li{
+    width: 100%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+p{
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    word-spacing: 5px;
+}
+
+
+p{
+    height: 600px;
+    border: 4px solid red;
+    box-sizing: border-box;
+}
+span{
+    vertical-align: middle;
+}
+#my{
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+*/
+.cursorEx{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    cursor:wait;
+    border: 2px solid red;
+}
